@@ -92,7 +92,8 @@ Fields in a collection should have a predictable purpose. Optional fields are fi
 
 ## References
 
-- [Insert documents](https://www.mongodb.com/docs/manual/tutorial/insert-documents/)
+- [Insert documents](https://www.mongodb.com/docs/manual/reference/method/db.collection.insertone/)
 - [BSON types](https://www.mongodb.com/docs/manual/reference/bson-types/)
 - [ObjectId](https://www.mongodb.com/docs/manual/reference/method/ObjectId/)
 - [Document size limits](https://www.mongodb.com/docs/manual/reference/limits/)
+

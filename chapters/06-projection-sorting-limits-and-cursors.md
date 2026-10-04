@@ -96,7 +96,8 @@ A cursor can hold server resources. Consume it promptly, limit the result set, a
 
 ## References
 
-- [Project fields from query results](https://www.mongodb.com/docs/manual/tutorial/project-fields-from-query-results/)
-- [Sort query results](https://www.mongodb.com/docs/manual/tutorial/sort-results-with-indexes/)
+- [Project fields from query results](https://www.mongodb.com/docs/manual/core/query-optimization/)
+- [Sort query results](https://www.mongodb.com/docs/manual/reference/method/cursor.sort/)
 - [Limit query results](https://www.mongodb.com/docs/manual/reference/method/cursor.limit/)
 - [Node.js driver cursors](https://www.mongodb.com/docs/drivers/node/current/crud/query/cursor/)
+

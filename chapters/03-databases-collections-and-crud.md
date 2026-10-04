@@ -100,7 +100,8 @@ If the filter is too broad, the preview makes that visible before data is remove
 ## References
 
 - [Databases and collections](https://www.mongodb.com/docs/manual/core/databases-and-collections/)
-- [Insert documents](https://www.mongodb.com/docs/manual/tutorial/insert-documents/)
-- [Query documents](https://www.mongodb.com/docs/manual/tutorial/query-documents/)
-- [Update documents](https://www.mongodb.com/docs/manual/tutorial/update-documents/)
-- [Delete documents](https://www.mongodb.com/docs/manual/tutorial/remove-documents/)
+- [Insert documents](https://www.mongodb.com/docs/manual/crud/)
+- [Query documents](https://www.mongodb.com/docs/manual/crud/)
+- [Update documents](https://www.mongodb.com/docs/manual/crud/)
+- [Delete documents](https://www.mongodb.com/docs/manual/crud/)
+

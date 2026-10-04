@@ -112,7 +112,8 @@ A filter `{}` matches every document. That can be useful for a deliberate read, 
 
 ## References
 
-- [Specify a query](https://www.mongodb.com/docs/manual/tutorial/query-documents/)
+- [Specify a query](https://www.mongodb.com/docs/manual/crud/)
 - [Query and projection operators](https://www.mongodb.com/docs/manual/reference/operator/query/)
-- [Query arrays](https://www.mongodb.com/docs/manual/tutorial/query-arrays/)
-- [Query embedded documents](https://www.mongodb.com/docs/manual/tutorial/query-embedded-documents/)
+- [Query arrays](https://www.mongodb.com/docs/manual/reference/operator/query/)
+- [Query embedded documents](https://www.mongodb.com/docs/manual/reference/operator/query/)
+
