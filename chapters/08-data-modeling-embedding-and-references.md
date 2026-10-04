@@ -80,4 +80,5 @@ There is no universal rule that every relation must be embedded or referenced. M
 - [MongoDB data modeling](https://www.mongodb.com/docs/manual/data-modeling/)
 - [Embedded data](https://www.mongodb.com/docs/manual/data-modeling/embedding/)
 - [Referenced data](https://www.mongodb.com/docs/manual/data-modeling/referencing/)
-- [Model one-to-many relationships](https://www.mongodb.com/docs/manual/tutorial/model-referenced-one-to-many-relationships-between-documents/)
+- [Model one-to-many relationships](https://www.mongodb.com/docs/manual/data-modeling/referencing/)
+
