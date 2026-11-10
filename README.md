@@ -6,7 +6,7 @@ These are my personal study notes from learning MongoDB and working with documen
 
 This collection starts with documents, BSON, and local setup, then moves through CRUD operations, query design, data modeling, indexes, aggregation, validation, transactions, replication, sharding, security, and the official Node.js driver. Each chapter explains the reason behind a feature, shows a focused example, and includes questions for review.
 
-Examples use `mongosh` and JavaScript with the official MongoDB Node.js driver. Commands that change or remove data are labeled so they can be tested against a local practice database first. Version-specific behavior should be checked against the current MongoDB Server and driver documentation linked below.
+Examples use `mongosh` and JavaScript with the official MongoDB Node.js driver. Use the disposable `study_notes` database for write and delete examples, inspect each filter before running it, and keep practice commands away from production data. Version-specific behavior should be checked against the current MongoDB Server and driver documentation linked below.
 
 ## Core topics
 
